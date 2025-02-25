@@ -20,11 +20,11 @@ Clash for Android 是一个免费软件并且不提供任何代理的服务，�
 
 ### 使用说明：
 
-1. 进入[Clash](https://aceclash.net/en)官网 (此网站无需代理/加速器就可直接访问)
-2. 选择 "Download Android"
+1. 进入[Clash](https://clashcn.com/clashreleases)中文网 (此网站无需代理/加速器就可直接访问)
+2. 找到并选择 "Download Android"
 3. 解压安装
 4. 进入 "配置" 后点击右上角 "+" 号
-5. 可自行选择 "从文件导入" 或 "从 URL 导入"
+5. 可自行选择 "从文件导入" 或 "从 URL 导入"(以下步骤基于选择 "从 URL 导入")
 
 ---
 
@@ -32,7 +32,7 @@ Clash for Android 是一个免费软件并且不提供任何代理的服务，�
 或者使用普通免费节点（此节点不稳定，通过此节点[获得/购买](#购买-vpn-节点和获得-url)更安全稳定的节点）：
 
 6. 免费节点：[一元机场 URL](https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=6b39e96ef9425fd6afbc893a15772b50)
-7. 保存
+7. 点击右上角"文件图标"进行保存
 8. 返回主页面 启动
 
 当完成以上操作后手机右上角会有 VPN 的状态图标
